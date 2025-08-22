@@ -20,11 +20,11 @@ NorthStar turns uncertainty into clarity:
 
 
 ## Core USPs
-- 🎯 **Onboarding Wizard** — profile, goals, constraints, decisions  
-- 🔮 **Timelines Simulator** — multiple parallel futures with milestones & radar charts  
-- ⚖️ **Trade-offs Explorer** — side-by-side scores, Pareto highlights, “Future-Me @ 70” narrative  
-- 📅 **90-Day Plan Generator** — OKRs, 13-week plan, tasks, and habits  
-- 🎬 **Cinematic Trailer** — motivational 30–45s text-kinetic future preview  
+- **Onboarding Wizard** — profile, goals, constraints, decisions  
+- **Timelines Simulator** — multiple parallel futures with milestones & radar charts  
+- **Trade-offs Explorer** — side-by-side scores, Pareto highlights, “Future-Me @ 70” narrative  
+- **90-Day Plan Generator** — OKRs, 13-week plan, tasks, and habits  
+- **Cinematic Trailer** — motivational 30–45s text-kinetic future preview  
 
 
 ## Tech Stack
