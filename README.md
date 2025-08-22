@@ -1,4 +1,4 @@
-# 🌟 NorthStar — Where Decisions Become Directions
+# NorthStar — Where Decisions Become Directions
 
 NorthStar is an AI-powered **life & career compass**.  
 It simulates multiple future timelines, compares trade-offs, and generates a **90-day execution plan** with OKRs, weekly milestones, and habits you can start today.
@@ -9,7 +9,7 @@ It simulates multiple future timelines, compares trade-offs, and generates a **9
 
 ---
 
-## 🚩 Why NorthStar?
+## Why NorthStar?
 Big life and career choices shouldn’t feel like guesswork.  
 NorthStar turns uncertainty into clarity:
 
@@ -22,7 +22,7 @@ NorthStar turns uncertainty into clarity:
 
 ---
 
-## 🧠 Features
+## Core USPs
 - 🎯 **Onboarding Wizard** — profile, goals, constraints, decisions  
 - 🔮 **Timelines Simulator** — multiple parallel futures with milestones & radar charts  
 - ⚖️ **Trade-offs Explorer** — side-by-side scores, Pareto highlights, “Future-Me @ 70” narrative  
@@ -31,14 +31,18 @@ NorthStar turns uncertainty into clarity:
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 - **Frontend:** Vite + React + TypeScript + Tailwind + shadcn/ui  
 - **AI Engine:** GPT-5 via AIML API (OpenAI-compatible)  
-- **Deployment:** Vercel  
+- **Deployment:** In Lovable hosting
+
+## 🔄 Sequence Diagram
+
+![NorthStar Sequence Diagram](https://drive.google.com/uc?export=view&id=10kg3MYzV7Lo2s6AYR09-oT1-bGXQoNTU)
 
 ---
 
-## 🚀 Quick Start (Local)
+## Quick Start (Local)
 
 > Requires Node.js 18+
 
