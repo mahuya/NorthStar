@@ -39,5 +39,5 @@ NorthStar turns uncertainty into clarity:
 
 ## Credits
 
-Built with ❤️ for the **for Co-Creating with GPT-5 AI Hackathon 2025**
-Author: Mahuya Ghosh © 2025
+- Built with ❤️ for the **for Co-Creating with GPT-5 AI Hackathon 2025**
+- Author: Mahuya Ghosh © 2025
