@@ -3,8 +3,8 @@
 NorthStar is an AI-powered **life & career compass**.  
 It simulates multiple future timelines, compares trade-offs, and generates a **90-day execution plan** with OKRs, weekly milestones, and habits you can start today.
 
-**Demo Video (≤5 min):** [[link Video](https://youtu.be/2nCh4GWpMBk)]  
-**Slides (PDF):** [[link to PDF](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/cmek1pqag000q356r4yxsaci6/cmek1pqag000q356r4yxsaci6-1755881653715_qu2ybf0fnc.pdf)]  
+**Demo Video (≤5 min):** [[link to YouTube Video](https://youtu.be/2nCh4GWpMBk)]  
+**Slides (PDF):** [[link to Presentation](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/cmek1pqag000q356r4yxsaci6/cmek1pqag000q356r4yxsaci6-1755881653715_qu2ybf0fnc.pdf)]  
 
 
 ## Why NorthStar?
