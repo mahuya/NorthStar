@@ -37,18 +37,6 @@ NorthStar turns uncertainty into clarity:
 ![NorthStar Sequence Diagram](https://drive.google.com/uc?export=view&id=10kg3MYzV7Lo2s6AYR09-oT1-bGXQoNTU)
 
 
-## Quick Start (Local)
-
-> Requires Node.js 18+
-
-```bash
-git clone https://github.com/<your-username>/northstar.git
-cd northstar
-npm install
-cp .env.example .env.local   # then fill with real values
-npm run dev
-
-
 ## Credits
 
 Built with ❤️ for the **for Co-Creating with GPT-5 AI Hackathon 2025**
