@@ -47,3 +47,8 @@ cd northstar
 npm install
 cp .env.example .env.local   # then fill with real values
 npm run dev
+
+## Credits
+
+Built with ❤️ for the **for Co-Creating with GPT-5 AI Hackathon 2025**
+Author: Mahuya Ghosh © 2025
