@@ -3,8 +3,7 @@
 NorthStar is an AI-powered **life & career compass**.  
 It simulates multiple future timelines, compares trade-offs, and generates a **90-day execution plan** with OKRs, weekly milestones, and habits you can start today.
 
-**Live Demo:** https://your-vercel-app.vercel.app  
-**Video (≤5 min):** [link to MP4]  
+**Demo Video (≤5 min):** [link to MP4]  
 **Slides (PDF):** [link to PDF]  
 
 
@@ -17,7 +16,7 @@ NorthStar turns uncertainty into clarity:
 - **Action, not theory** — instant 90-day OKRs, week-by-week plan, and habits  
 - **Powered by GPT-5 (AIML)** — lightning-fast UX, extended context window, deep reasoning, multi-agent chaining, and strict JSON precision  
 - **Frontend:** Built with [Lovable.dev](https://lovable.dev) (Vite + React + Tailwind + shadcn/ui)  
-- **Deployed:** Vercel  
+- **Deployed:** In Lovable hosting  
 
 
 ## Core USPs
