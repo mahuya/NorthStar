@@ -32,7 +32,7 @@ NorthStar turns uncertainty into clarity:
 - **AI Engine:** GPT-5 via AIML API (OpenAI-compatible)  
 - **Deployment:** In Lovable hosting
 
-## 🔄 Sequence Diagram
+## Sequence Diagram
 
 ![NorthStar Sequence Diagram](https://drive.google.com/uc?export=view&id=10kg3MYzV7Lo2s6AYR09-oT1-bGXQoNTU)
 
