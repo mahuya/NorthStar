@@ -7,7 +7,6 @@ It simulates multiple future timelines, compares trade-offs, and generates a **9
 **Video (≤5 min):** [link to MP4]  
 **Slides (PDF):** [link to PDF]  
 
----
 
 ## Why NorthStar?
 Big life and career choices shouldn’t feel like guesswork.  
@@ -20,7 +19,6 @@ NorthStar turns uncertainty into clarity:
 - **Frontend:** Built with [Lovable.dev](https://lovable.dev) (Vite + React + Tailwind + shadcn/ui)  
 - **Deployed:** Vercel  
 
----
 
 ## Core USPs
 - 🎯 **Onboarding Wizard** — profile, goals, constraints, decisions  
@@ -29,7 +27,6 @@ NorthStar turns uncertainty into clarity:
 - 📅 **90-Day Plan Generator** — OKRs, 13-week plan, tasks, and habits  
 - 🎬 **Cinematic Trailer** — motivational 30–45s text-kinetic future preview  
 
----
 
 ## Tech Stack
 - **Frontend:** Vite + React + TypeScript + Tailwind + shadcn/ui  
@@ -40,7 +37,6 @@ NorthStar turns uncertainty into clarity:
 
 ![NorthStar Sequence Diagram](https://drive.google.com/uc?export=view&id=10kg3MYzV7Lo2s6AYR09-oT1-bGXQoNTU)
 
----
 
 ## Quick Start (Local)
 
